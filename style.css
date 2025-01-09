@@ -1,0 +1,23 @@
+.bg-pl {
+  background-image: url("assets/plano de fundo.png");
+  background-size: cover; /* Faz com que a imagem cubra o espaço disponível */
+  background-position: center; /* Centraliza a imagem */
+  min-height: 100vh; /* Altura mínima igual à altura da tela */
+  display: flex; /* Flexbox para centralizar elementos filhos */
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.bg-pl-2 {
+  background-image: url("assets/plano de fundo2.png");
+  background-size: cover; /* Faz com que a imagem cubra o espaço disponível */
+  background-position: center; /* Centraliza a imagem */
+  min-height: 100vh; /* Altura mínima igual à altura da tela */
+  display: flex; /* Flexbox para centralizar elementos filhos */
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}

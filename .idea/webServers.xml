@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dd7050f2-707e-4233-9bc0-2206d8b03993" name="Rocket" url="http://localhost">
+        <fileTransfer mountedRoot="C:\Users\vagne\code\portifolio" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
