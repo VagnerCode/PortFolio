@@ -26,7 +26,7 @@ Bem-vindo ao repositório do meu portfólio pessoal! Este projeto foi desenvolvi
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/VagnerCode/PortFolio
    ```
 2. Certifique-se de ter o PHP instalado.
 3. No terminal, navegue até o diretório do projeto e inicie o servidor embutido:
